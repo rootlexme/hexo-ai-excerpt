@@ -28,3 +28,8 @@ aiexcerpt:
 | prompt         | 前置要求内容            |
 | ignoreEl       | 要排除的 `content` 内容 |
 | max_token      | 最大字符限制            |
+
+## API推荐
+
+[tianliGPT](https://afdian.net/item/f18c2e08db4411eda2f25254001e7c00)
+[api2d](https://api2d.com/r/195259)
