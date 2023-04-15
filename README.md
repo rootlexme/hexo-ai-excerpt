@@ -33,4 +33,6 @@ aiexcerpt:
 
 [tianliGPT](https://afdian.net/item/f18c2e08db4411eda2f25254001e7c00)
 
+[晚安GPT](https://www.cartafi.org/)
+
 [api2d](https://api2d.com/r/195259)
