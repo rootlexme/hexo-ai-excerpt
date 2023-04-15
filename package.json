@@ -1,0 +1,15 @@
+{
+  "name": "hexo-ai-excerpt",
+  "version": "1.0.0",
+  "description": "使用ai自动为文章生成摘要",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rootlex",
+  "license": "MIT",
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "chatgpt": "^5.2.2"
+  }
+}
