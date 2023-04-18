@@ -17,6 +17,6 @@ hexo.extend.filter.register('after_post_render', async function (data) {
     const path = this.source_dir + data.source
     const frontMatter = fm.parse(await fs.readFile(path));
     frontMatter.excerpt = data.excerpt = await ai(config.custom, config.token, config.api, config.model, content, config.prompt, config.max_token)
-    await fs.writeFile(path, `---\n${fm.stringify(frontMatter)}---\n${data.content}`);
+    await fs.writeFile(path, `---\n${fm.stringify(frontMatter)}`);
     return data
 });
