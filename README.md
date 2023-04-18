@@ -6,6 +6,8 @@
 npm i hexo-ai-excerpt
 ```
 
+**Node >= 18**
+
 ## 配置文件
 ```
 aiexcerpt:
